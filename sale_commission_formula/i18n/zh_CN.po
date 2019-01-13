@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-14 15:14+0000\n"
-"PO-Revision-Date: 2017-12-14 15:14+0000\n"
+"PO-Revision-Date: 2019-01-12 12:36+0800\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/oca/teams/23907/"
 "zh_CN/)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
@@ -36,12 +37,12 @@ msgstr ""
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Account Invoice Line common fields"
-msgstr ""
+msgstr "帐户凭证明细公共字段"
 
 #. module: sale_commission_formula
 #: model:ir.model,name:sale_commission_formula.model_sale_commission
 msgid "Commission in sales"
-msgstr ""
+msgstr "销售佣金"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
@@ -51,71 +52,71 @@ msgstr "折扣（%）"
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Field"
-msgstr ""
+msgstr "字段"
 
 #. module: sale_commission_formula
 #: model:ir.model.fields,field_description:sale_commission_formula.field_sale_commission_formula
 msgid "Formula"
-msgstr ""
+msgstr "公式"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Instructions"
-msgstr ""
+msgstr "指令"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Label"
-msgstr ""
+msgstr "标号"
 
 #. module: sale_commission_formula
 #: model:ir.model,name:sale_commission_formula.model_sale_commission_line_mixin
 msgid ""
 "Mixin model for having commission agent lines in any object inheriting from "
 "this one"
-msgstr ""
+msgstr "Mixin模型，用于在从此继承的任何对象中具有佣金代理明细"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Quantity"
-msgstr ""
+msgstr "数量"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Sale Oder Line common fields"
-msgstr ""
+msgstr "销售订单明细公共字段"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Subtotal"
-msgstr ""
+msgstr "小计"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "Unit Price"
-msgstr ""
+msgstr "价格单位"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "discount"
-msgstr ""
+msgstr "折扣"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "price_subtotal"
-msgstr ""
+msgstr "价格小计"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "price_unit"
-msgstr ""
+msgstr "价格单位"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "product_uom_qty"
-msgstr ""
+msgstr "产品单位数量"
 
 #. module: sale_commission_formula
 #: model:ir.ui.view,arch_db:sale_commission_formula.sale_commission_form_formula
 msgid "quantity"
-msgstr ""
+msgstr "数量"
