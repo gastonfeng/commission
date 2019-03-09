@@ -1,6 +1,7 @@
-from odoo import tools
-from odoo import models, fields, api
 from psycopg2.extensions import AsIs
+
+from odoo import models, fields, api
+from odoo import tools
 
 
 class SaleCommissionAnalysisReport(models.Model):

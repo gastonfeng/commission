@@ -1,8 +1,8 @@
+import dateutil.relativedelta
 
 from odoo import fields
-from odoo.tests.common import TransactionCase
 from odoo.exceptions import UserError, ValidationError
-import dateutil.relativedelta
+from odoo.tests.common import TransactionCase
 
 
 class TestSaleCommission(TransactionCase):
